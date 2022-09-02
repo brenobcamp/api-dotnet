@@ -1,0 +1,3 @@
+<h1>Pessoas e Contratos API em .NET</h1>
+<p>Esse repositório guarda a primeira API em .NET e C# que construi. Usei o Entity Framework Core para que os dados inseridos sejam tratados como tabelas de um banco de dados. Criei dois models e um controller
+Projeto desenvolvido durante o evento Pottencial Dev Week da <a href="http://dio.me">DIO.me</a>. Aulas ministradas por <a href="https://www.linkedin.com/in/felipe-aguiar-exe/">Felipe Aguiar</a>.</p>
