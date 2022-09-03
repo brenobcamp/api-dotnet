@@ -10,7 +10,6 @@ namespace src.Controllers;
 [ApiController]
 [Route("[controller]")]
 public class PersonController : ControllerBase{
-
     private DatabaseContext _context { get; set; }
     public PersonController(DatabaseContext context){
         this._context = context;
